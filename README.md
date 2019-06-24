@@ -25,8 +25,8 @@ Example of settings:
 
 `./geth.exe —networkid=0 —datadir=rinkeby —cache=1024 —syncmode=light —rpc —rpcaddr "127.0.0.1" —rpcport "8501" —rpcapi "db,eth,net,web3"`
 
-`—networkid=0`  - main ethereum net id
-`—datadir=rinkeby` - local folder with network data
-`—cache=1024`  - cache ...
-`—syncmode=light`  -  download only transactions meta
+`—networkid=0`  - main ethereum net id,
+`—datadir=rinkeby` - local folder with network data,
+`—cache=1024`  - cache,
+`—syncmode=light`  -  download only transactions meta,
 `—rpc —rpcaddr "127.0.0.1" —rpcport "8501" —rpcapi "db,eth,net,web3"` - client settings 
