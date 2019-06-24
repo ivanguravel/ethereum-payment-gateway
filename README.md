@@ -23,7 +23,7 @@ Money was transfered within 3 hours by net to my wallet because a lot of queries
 
 Example of settings:
 
-`./geth.exe —networkid=0 —datadir=rinkeby —cache=1024 —syncmode=light —rpc —rpcaddr "127.0.0.1" —rpcport "8501" —rpcapi "db,eth,net,web3"`
+`./geth —networkid=0 —datadir=rinkeby —cache=1024 —syncmode=light —rpc —rpcaddr "127.0.0.1" —rpcport "8501" —rpcapi "db,eth,net,web3"`
 
 ###### `—networkid=0`  - main ethereum net id,
 ###### `—datadir=rinkeby` - local folder with network data,
