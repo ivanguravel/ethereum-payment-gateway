@@ -17,7 +17,9 @@ for getting money to the rinkeby wallet you can use: https://faucet.rinkeby.io/
 
 Money was transfered within 3 hours by net to my wallet because a lot of queries.
 
-3) production ready case: gateway -> geth node(on your server) -> main network. 
+### 3) Production ready case:  
+
+`gateway -> geth node(on your server) -> main network.`
 
 Example of settings:
 
